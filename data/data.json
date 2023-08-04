@@ -1,0 +1,47 @@
+[
+    {
+        "nama": "Raihan Ramadhan",
+        "no_telepon": "081812345678",
+        "paket": "Cuci Reguler",
+        "berat": "10",
+        "harga_paket": 10000,
+        "total_harga": 90000,
+        "alamat": "Purwakarta"
+    },
+    {
+        "nama": "Alvin Austin",
+        "no_telepon": "0812123456",
+        "paket": "Cuci Kilat",
+        "berat": "8",
+        "harga_paket": 16000,
+        "total_harga": 80000,
+        "alamat": "Karawang"
+    },
+    {
+        "nama": "Trina Ramadhian",
+        "no_telepon": "087812345678",
+        "paket": "Cuci Express",
+        "berat": "2",
+        "harga_paket": 8000,
+        "total_harga": 24000,
+        "alamat": "Jakarta"
+    },
+    {
+        "nama": "Yusup Supriatna",
+        "no_telepon": "085212345678",
+        "paket": "Cuci Kilat",
+        "berat": "15",
+        "harga_paket": 30000,
+        "total_harga": 150000,
+        "alamat": "Bekasi"
+    },
+    {
+        "nama": "Hany Mustika",
+        "no_telepon": "085812345678",
+        "paket": "Cuci Kilat",
+        "berat": "4",
+        "harga_paket": 8000,
+        "total_harga": 40000,
+        "alamat": "Subang"
+    }
+]

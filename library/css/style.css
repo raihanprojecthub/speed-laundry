@@ -1,0 +1,84 @@
+body {
+  background-image: url(../../img/blue-snow.png);
+  background-repeat: repeat;
+}
+
+.modal-container {
+  width: 400px;
+}
+
+.hero {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.hero .content {
+  padding: 1.4rem 7%;
+  max-width: 60rem;
+  text-align: center;
+}
+
+.hero .content h1 {
+  font-size: 5rem;
+  line-height: 1.2;
+}
+
+.hero .content p {
+  font-size: 1.6rem;
+  margin-top: 1rem;
+  line-height: 1.4;
+  font-weight: 100;
+  color: black;
+}
+
+#tambah,
+#riwayat,
+#detail,
+#ubah,
+#admin {
+  min-height: 100vh;
+}
+
+#admin .container {
+  width: 900px;
+}
+#ubah .container {
+  width: 900px;
+}
+#detail .container {
+  width: 900px;
+}
+#riwayat .container {
+  width: 900px;
+}
+#tambah .container {
+  width: 900px;
+}
+
+/* Media Queries */
+/* Laptop */
+@media (max-width: 1366px) {
+  html {
+    font-size: 75%;
+  }
+}
+
+/* Tablet */
+@media (max-width: 768px) {
+  html {
+    font-size: 62.5%;
+  }
+}
+
+/* Mobile Phone */
+@media (max-width: 450px) {
+  html {
+    font-size: 55%;
+  }
+
+  .hero .content {
+    max-width: 48rem;
+  }
+}
